@@ -1,3 +1,5 @@
 Flask
 firebase-admin
 gunicorn
+google-generativeai
+python-dotenv
